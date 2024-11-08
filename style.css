@@ -11,8 +11,9 @@ nav {
     background-color: black;
     color: white;
     padding: 12px 3px;
-    display: flex;
-    justify-content: space-between;
+    text-align: center;
+    /* display: flex;
+    justify-content: space-between; */
 }
 
 .logo{
@@ -48,6 +49,13 @@ table, td, tr{
 .container {
     max-width: 80vw;
     margin: 23px auto;
+    background-color:rgb(249, 226, 198);
+    padding: 1px 50px;
+    border: 2px solid black;
+    border-radius: 13px;
+}
+h1{
+    text-align: center;
 }
 
 h1, h2, h3 {
